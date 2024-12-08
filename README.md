@@ -39,7 +39,7 @@ To develop a comprehensive Power BI dashboard that provides key metrics and tren
 ## **Files Included**
 - **`Twitter(X)_Dashboard.pbix`**: The Power BI file with the completed dashboard, including visuals, measures, and transformations.
 - **`Twitter_data.csv`**: The source dataset used for the analysis.
-- **`NULLCLASS Twitter BI Internship Report.pdf`**: The report provides a comprehensive overview of the internship experience at NullClass, detailing the creation of an advanced Twitter (X) analytics Power BI dashboard and its impact on data-driven decision-making. It highlights the tasks,features,challenges, solutions, and key learnings gained through the project.
+- **`NULLCLASS Twitter BI Internship Report.pdf`**: The report provides a comprehensive overview of the internship experience at [NullClass](https://www.nullclass.com/), detailing the creation of an advanced Twitter (X) analytics Power BI dashboard and its impact on data-driven decision-making. It highlights the tasks,features,challenges, solutions, and key learnings gained through the project.
   
 ## **Picture of Dashboard**
 
